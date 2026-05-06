@@ -28,6 +28,12 @@ This project provides a website where:
 - Volunteer can control and start the game.
 - Scoring system shows which statements were personal vs. generic.
 
+## My Contribution
+
+This project was developed collaboratively by a team of three, with all members contributing across the full stack, including frontend, backend, API layer, and database.
+
+My primary contribution was implementing the core game logic, including the game engine and overall game flow. I also designed and developed the real-time multiplayer functionality, ensuring proper synchronization and consistent game state across all players.
+
 ## Tech Stack
 
 - Frontend: HTML, JavaScript, Tailwind CSS
